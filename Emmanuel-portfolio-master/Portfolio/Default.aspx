@@ -245,12 +245,12 @@
         </a>
         <a class="third-section-icon" href="CateringManagement.aspx" tabindex="17">
             <div style="width: 400px; padding: 20px; text-align: center; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);" class="myProject">
-                <img src="images/Landing P.png" alt="Catering Management website" style="max-width: 100%; height: auto;" />
+                <img src="images/Catering Shot.png" alt="Catering Management website" style="max-width: 100%; height: auto;" />
                 <p style="margin: 10px 0;">
                A back-office application for a fictional hotel, designed to manage and operate the business.
                 </p>
                 <p >
-                    <a href="https://cateringmanagementproject.azurewebsites.net/" target="_blank" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #007bff; color: #fff; border-radius: 5px;">Website Link &raquo;</a>
+                    <a href="https://cateringmanagementbyemma.azurewebsites.net" target="_blank" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #007bff; color: #fff; border-radius: 5px;">Website Link &raquo;</a>
                 </p>
             </div>
         </a>

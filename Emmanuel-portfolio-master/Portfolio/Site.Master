@@ -187,7 +187,7 @@
             <hr />
            <footer style="text-align: center; background-color: black; display: block;">
     <b style="color: gray; text-align: center; display: block;  margin-bottom: 50px; padding-top: 20px;">STAY IN TOUCH</b>
-    <a href="mailto:ejames12@ncstudents.niagaracollege.ca">
+    <a href="mailto:jamesnuel247@gmail.com">
         <span style="display: inline-block; text-align: center; color: #007bff; padding: 4px 12px; margin: 4px; border-radius: 20px; border: 2px solid #007bff; background-color: black; margin-bottom: 50px;">LET'S TALK</span>
     </a>
     <p style="color: gray">&copy; <%: DateTime.Now.Year %> - &copy; Emmanuel James</p>

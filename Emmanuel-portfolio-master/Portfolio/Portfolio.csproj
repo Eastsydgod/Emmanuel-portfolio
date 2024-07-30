@@ -134,6 +134,7 @@
     <Content Include="Global.asax" />
     <Content Include="Images\box.jpg" />
     <Content Include="Images\cards.jpg" />
+    <Content Include="Images\Catering Shot .png" />
     <Content Include="Images\custDetails.png" />
     <Content Include="Images\custDets.png" />
     <Content Include="Images\custList.png" />

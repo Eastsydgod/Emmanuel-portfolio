@@ -63,12 +63,12 @@ day-to-day operations.
 entities within a business application, employing Database Migration for the creation of a SQL 
 Server Database.  </p>
  <p style="text-align: center;">
-   <a href="https://cateringmanagementproject.azurewebsites.net/" target="_blank" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #007bff; color: #fff; border-radius: 5px;">Website Link &raquo;</a>
+   <a href="https://cateringmanagementbyemma.azurewebsites.net" target="_blank" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #007bff; color: #fff; border-radius: 5px;">Website Link &raquo;</a>
  </p>
 </p>
 </p>
         <div >
-            <img src="images/Landing P.png"/ alt="Home page" style="width: 100%; border-radius: 8px;">
+            <img src="images/Catering Shot.png"/ alt="Home page" style="width: 100%; border-radius: 8px;">
              <figcaption style="font-size: 16px; margin-top: 10px; color: #777;">Catering Management Home Page</figcaption>
         </div>
             <br />
