@@ -68,7 +68,7 @@ Server Database.  </p>
 </p>
 </p>
         <div >
-            <img src="images/Catering Shot.png"/ alt="Home page" style="width: 100%; border-radius: 8px;">
+            <img src="images/Catering Shot .png"/ alt="Home page" style="width: 100%; border-radius: 8px;">
              <figcaption style="font-size: 16px; margin-top: 10px; color: #777;">Catering Management Home Page</figcaption>
         </div>
             <br />
