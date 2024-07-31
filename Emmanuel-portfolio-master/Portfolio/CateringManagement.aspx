@@ -22,6 +22,14 @@ p {
     text-align: center;
     color: #555;
 }
+
+.bordered-image {
+    border: 1px solid #000; /* Black border with a width of 2px */
+    padding: 10px;         /* Optional: space between the image and the border */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+    border-radius: 5px;    /* Optional: rounded corners */
+}
+
      @media (max-width: 480px) {
       main {
           padding: 10px;
@@ -57,19 +65,22 @@ addressing key facets such as code implementation, universal UI requirements, re
 EF, object-oriented design, security measures, and additional features. This in-house tool, 
 tailored for a fictional hotel in Toronto, empowers employees to efficiently oversee and control 
 day-to-day operations.
-          
+
 <p >
     Adhering to the Object-Oriented paradigm, I fashioned distinct model classes to represent 
 entities within a business application, employing Database Migration for the creation of a SQL 
-Server Database.  </p>
+Server Database.
+
+     <br /><h4>To log in with admin privileges: <br />  <b> Email: admin@outlook.com  <br /> Password: Pa55w@rd </b> </h4>       
+</p>
  <p style="text-align: center;">
    <a href="https://cateringmanagementbyemma.azurewebsites.net" target="_blank" style="display: inline-block; padding: 10px 20px; text-decoration: none; background-color: #007bff; color: #fff; border-radius: 5px;">Website Link &raquo;</a>
  </p>
 </p>
 </p>
         <div >
-            <img src="images/Catering Shot .png"/ alt="Home page" style="width: 100%; border-radius: 8px;">
-             <figcaption style="font-size: 16px; margin-top: 10px; color: #777;">Catering Management Home Page</figcaption>
+            <img src="images/CM.png"/ class="bordered-image" alt="Home page" style="width: 100%; border-radius: 8px;">
+             <figcaption style="font-size: 16px; margin-top: 10px; color: #777;">Hotel Management Home Page</figcaption>
         </div>
             <br />
             <br />

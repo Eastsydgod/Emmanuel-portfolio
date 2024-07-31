@@ -22,6 +22,13 @@
             color: #555;
         }
 
+
+        .bordered-image {
+    border: 1px solid #000; /* Black border with a width of 2px */
+    padding: 10px;         /* Optional: space between the image and the border */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+    border-radius: 5px;    /* Optional: rounded corners */
+}
         a.btn-link {
             display: inline-block;
             padding: 10px 20px;
@@ -83,7 +90,7 @@
         </p>
 
         <div class="image-container">
-            <img src="images/FixIt.png" alt="FixIt Home page">
+            <img src="images/FixIt.png" class="bordered-image" alt="FixIt Home page">
             <figcaption>FixIt page</figcaption>
         </div>
 

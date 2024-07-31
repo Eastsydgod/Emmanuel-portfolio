@@ -22,6 +22,14 @@ p {
     text-align: center;
     color: #555;
 }
+
+.bordered-image {
+    border: 1px solid #000; /* Black border with a width of 2px */
+    padding: 10px;         /* Optional: space between the image and the border */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+    border-radius: 5px;    /* Optional: rounded corners */
+}
+
      @media (max-width: 480px) {
       main {
           padding: 10px;
@@ -61,7 +69,7 @@ The aim is to enhance the experience for coaches, parents, and players by offeri
 </p>
 </p>
         <div >
-            <img src="images/Wmba.png"/ alt="Home page" style="width: 100%; border-radius: 8px;">
+            <img src="images/Wmba.png"/ alt="Home page" class="bordered-image" style="width: 100%; border-radius: 8px;">
              <figcaption style="font-size: 16px; margin-top: 10px; color: #777;">Welland Minor Baseball Home Page</figcaption>
         </div>
             <br />
